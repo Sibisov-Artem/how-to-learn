@@ -15,3 +15,5 @@ techniques, video, oakley, khan, resources.
 * вставка видео с использованием iframe;
 * по внешнему виду в целом согласно брифу.
 Создание сеток производилось с использованием flex свойств.
+
+![Desktop screenshot](./screenshot/screenshot.png)
