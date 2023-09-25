@@ -17,4 +17,6 @@
 
 **[Результат выполненной проектной работы - Github Pages](https://sibisov-artem.github.io/how-to-learn/)** 
 
-**[Скриншот выполненной работы](./screenshot/screenshot.png)
+**Скриншот выполненной работы:** 
+
+![Скриншот выполненной работы](./screenshot/screenshot.png)
