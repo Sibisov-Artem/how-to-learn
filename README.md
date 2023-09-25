@@ -15,6 +15,6 @@
 * по внешнему виду в целом согласно брифу и макету.
 Создание сеток производилось с использованием flex свойств.
 
-**[Результат выполненной проектной работы](https://sibisov-artem.github.io/how-to-learn/)** 
+**[Результат выполненной проектной работы - Github Pages](https://sibisov-artem.github.io/how-to-learn/)** 
 
-![Desktop screenshot](./screenshot/screenshot.png)
+**[Скриншот выполненной работы](./screenshot/screenshot.png)
